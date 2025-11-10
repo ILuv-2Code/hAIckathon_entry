@@ -5,7 +5,6 @@ import plotly.graph_objects as go
 from sklearn.tree import DecisionTreeRegressor
 import numpy as np
 
-
 # Page configuration
 st.set_page_config(page_title="California Climate Impact Dashboard", layout="wide", page_icon="🌴")
 
